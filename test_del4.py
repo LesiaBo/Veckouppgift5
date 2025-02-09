@@ -1,7 +1,7 @@
 from del4 import find_max
 
 
-#test1: empty list->return None
+#test1: []]->return None
 #test2: list doesn't contain numbers, but other digit types->return 0
 #test3: list of same numbers->any of them
 #test4: list 1, 2, 9999, 200 ->9999
